@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# OOP\Inheritance - Exercise\Person\bin\Debug\Person.exe.config
+D:\Software Engeneering\C# OOP\Inheritance - Exercise\Person\bin\Debug\Person.exe
+D:\Software Engeneering\C# OOP\Inheritance - Exercise\Person\bin\Debug\Person.pdb
+D:\Software Engeneering\C# OOP\Inheritance - Exercise\Person\obj\Debug\Person.csprojAssemblyReference.cache
+D:\Software Engeneering\C# OOP\Inheritance - Exercise\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# OOP\Inheritance - Exercise\Person\obj\Debug\Person.exe
+D:\Software Engeneering\C# OOP\Inheritance - Exercise\Person\obj\Debug\Person.pdb

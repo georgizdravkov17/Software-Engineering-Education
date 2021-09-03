@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ValidateDataForTheToppicClass\bin\Debug\ValidateDataForTheToppicClass.exe.config
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ValidateDataForTheToppicClass\bin\Debug\ValidateDataForTheToppicClass.exe
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ValidateDataForTheToppicClass\bin\Debug\ValidateDataForTheToppicClass.pdb
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ValidateDataForTheToppicClass\obj\Debug\PizzaCalories.csprojAssemblyReference.cache
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ValidateDataForTheToppicClass\obj\Debug\PizzaCalories.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ValidateDataForTheToppicClass\obj\Debug\ValidateDataForTheToppicClass.exe
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ValidateDataForTheToppicClass\obj\Debug\ValidateDataForTheToppicClass.pdb

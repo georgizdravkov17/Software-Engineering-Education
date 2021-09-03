@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\Wardrobe.exe.config
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\Wardrobe.exe
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\bin\Debug\Wardrobe.pdb
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\Wardrobe.csprojAssemblyReference.cache
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\Wardrobe.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\Wardrobe.exe
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\Wardrobe\obj\Debug\Wardrobe.pdb

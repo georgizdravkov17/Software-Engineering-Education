@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Object and Classes - Lab\Songs\bin\Debug\Songs.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Object and Classes - Lab\Songs\bin\Debug\Songs.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Object and Classes - Lab\Songs\bin\Debug\Songs.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Object and Classes - Lab\Songs\obj\Debug\Songs.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Object and Classes - Lab\Songs\obj\Debug\Songs.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Object and Classes - Lab\Songs\obj\Debug\Songs.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Object and Classes - Lab\Songs\obj\Debug\Songs.pdb

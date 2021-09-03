@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\Dictionaries - Exercise\bin\Debug\Dictionaries - Exercise.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\Dictionaries - Exercise\bin\Debug\Dictionaries - Exercise.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\Dictionaries - Exercise\bin\Debug\Dictionaries - Exercise.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\Dictionaries - Exercise\obj\Debug\Dictionaries - Exercise.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\Dictionaries - Exercise\obj\Debug\Dictionaries - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\Dictionaries - Exercise\obj\Debug\Dictionaries - Exercise.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\Dictionaries - Exercise\obj\Debug\Dictionaries - Exercise.pdb

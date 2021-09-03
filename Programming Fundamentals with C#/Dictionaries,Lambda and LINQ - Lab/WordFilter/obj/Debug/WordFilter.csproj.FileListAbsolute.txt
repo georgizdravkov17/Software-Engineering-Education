@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\WordFilter\bin\Debug\WordFilter.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\WordFilter\bin\Debug\WordFilter.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\WordFilter\bin\Debug\WordFilter.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\WordFilter\obj\Debug\WordFilter.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\WordFilter\obj\Debug\WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\WordFilter\obj\Debug\WordFilter.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\WordFilter\obj\Debug\WordFilter.pdb

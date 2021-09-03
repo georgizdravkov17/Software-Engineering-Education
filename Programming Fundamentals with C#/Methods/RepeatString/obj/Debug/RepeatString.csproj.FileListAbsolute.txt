@@ -1,0 +1,6 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\RepeatString\bin\Debug\RepeatString.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\RepeatString\bin\Debug\RepeatString.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\RepeatString\bin\Debug\RepeatString.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\RepeatString\obj\Debug\RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\RepeatString\obj\Debug\RepeatString.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\RepeatString\obj\Debug\RepeatString.pdb

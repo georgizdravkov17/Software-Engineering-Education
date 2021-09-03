@@ -1,0 +1,6 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\MonthPrinter\bin\Debug\MonthPrinter.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\MonthPrinter\bin\Debug\MonthPrinter.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\MonthPrinter\bin\Debug\MonthPrinter.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\MonthPrinter\obj\Debug\MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\MonthPrinter\obj\Debug\MonthPrinter.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\MonthPrinter\obj\Debug\MonthPrinter.pdb

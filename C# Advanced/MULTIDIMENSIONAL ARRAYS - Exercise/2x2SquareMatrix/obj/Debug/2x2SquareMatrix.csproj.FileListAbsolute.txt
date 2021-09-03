@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\2x2SquareMatrix\bin\Debug\2x2SquareMatrix.exe.config
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\2x2SquareMatrix\bin\Debug\2x2SquareMatrix.exe
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\2x2SquareMatrix\bin\Debug\2x2SquareMatrix.pdb
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\2x2SquareMatrix\obj\Debug\2x2SquareMatrix.csprojAssemblyReference.cache
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\2x2SquareMatrix\obj\Debug\2x2SquareMatrix.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\2x2SquareMatrix\obj\Debug\2x2SquareMatrix.exe
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\2x2SquareMatrix\obj\Debug\2x2SquareMatrix.pdb

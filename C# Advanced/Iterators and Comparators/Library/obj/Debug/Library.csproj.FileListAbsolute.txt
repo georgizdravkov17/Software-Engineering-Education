@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\Iterators and Comparators\Library\bin\Debug\Library.exe.config
+D:\Software Engeneering\C# Advanced\Iterators and Comparators\Library\bin\Debug\Library.exe
+D:\Software Engeneering\C# Advanced\Iterators and Comparators\Library\bin\Debug\Library.pdb
+D:\Software Engeneering\C# Advanced\Iterators and Comparators\Library\obj\Debug\Library.csprojAssemblyReference.cache
+D:\Software Engeneering\C# Advanced\Iterators and Comparators\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\Iterators and Comparators\Library\obj\Debug\Library.exe
+D:\Software Engeneering\C# Advanced\Iterators and Comparators\Library\obj\Debug\Library.pdb

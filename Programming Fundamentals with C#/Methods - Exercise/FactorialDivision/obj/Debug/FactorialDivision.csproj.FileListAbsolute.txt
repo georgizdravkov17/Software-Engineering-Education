@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\FactorialDivision\bin\Debug\FactorialDivision.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\FactorialDivision\bin\Debug\FactorialDivision.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\FactorialDivision\bin\Debug\FactorialDivision.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\FactorialDivision\obj\Debug\FactorialDivision.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\FactorialDivision\obj\Debug\FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\FactorialDivision\obj\Debug\FactorialDivision.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\FactorialDivision\obj\Debug\FactorialDivision.pdb

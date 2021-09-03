@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\SetsOfElements\bin\Debug\SetsOfElements.exe.config
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\SetsOfElements\bin\Debug\SetsOfElements.exe
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\SetsOfElements\bin\Debug\SetsOfElements.pdb
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\SetsOfElements\obj\Debug\SetsOfElements.csprojAssemblyReference.cache
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\SetsOfElements\obj\Debug\SetsOfElements.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\SetsOfElements\obj\Debug\SetsOfElements.exe
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\SetsOfElements\obj\Debug\SetsOfElements.pdb

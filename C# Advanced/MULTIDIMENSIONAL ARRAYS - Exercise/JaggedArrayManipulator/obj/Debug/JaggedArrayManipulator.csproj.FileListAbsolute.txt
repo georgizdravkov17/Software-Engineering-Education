@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\JaggedArrayManipulator\bin\Debug\JaggedArrayManipulator.exe.config
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\JaggedArrayManipulator\bin\Debug\JaggedArrayManipulator.exe
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\JaggedArrayManipulator\bin\Debug\JaggedArrayManipulator.pdb
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\JaggedArrayManipulator\obj\Debug\JaggedArrayManipulator.csprojAssemblyReference.cache
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\JaggedArrayManipulator\obj\Debug\JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\JaggedArrayManipulator\obj\Debug\JaggedArrayManipulator.exe
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\JaggedArrayManipulator\obj\Debug\JaggedArrayManipulator.pdb

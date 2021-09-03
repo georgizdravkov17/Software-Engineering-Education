@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\ConvertMetersToKilometers\CharToString\bin\Debug\CharToString.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\ConvertMetersToKilometers\CharToString\bin\Debug\CharToString.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\ConvertMetersToKilometers\CharToString\bin\Debug\CharToString.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\ConvertMetersToKilometers\CharToString\obj\Debug\CharToString.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\ConvertMetersToKilometers\CharToString\obj\Debug\CharToString.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\ConvertMetersToKilometers\CharToString\obj\Debug\CharToString.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\ConvertMetersToKilometers\CharToString\obj\Debug\CharToString.pdb

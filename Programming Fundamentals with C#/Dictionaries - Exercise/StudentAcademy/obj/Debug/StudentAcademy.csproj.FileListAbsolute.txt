@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\StudentAcademy\bin\Debug\StudentAcademy.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\StudentAcademy\bin\Debug\StudentAcademy.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\StudentAcademy\bin\Debug\StudentAcademy.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\StudentAcademy\obj\Debug\StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\StudentAcademy\obj\Debug\StudentAcademy.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\StudentAcademy\obj\Debug\StudentAcademy.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\StudentAcademy\obj\Debug\StudentAcademy.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\ValidationOfData\bin\Debug\ValidationOfData.exe.config
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\ValidationOfData\bin\Debug\ValidationOfData.exe
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\ValidationOfData\bin\Debug\ValidationOfData.pdb
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\ValidationOfData\obj\Debug\ValidationOfData.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\ValidationOfData\obj\Debug\ValidationOfData.exe
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\ValidationOfData\obj\Debug\ValidationOfData.pdb

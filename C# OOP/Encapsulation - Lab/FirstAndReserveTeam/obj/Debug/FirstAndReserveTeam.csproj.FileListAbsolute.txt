@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\FirstAndReserveTeam\bin\Debug\FirstAndReserveTeam.exe.config
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\FirstAndReserveTeam\bin\Debug\FirstAndReserveTeam.exe
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\FirstAndReserveTeam\bin\Debug\FirstAndReserveTeam.pdb
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\FirstAndReserveTeam\obj\Debug\FirstAndReserveTeam.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\FirstAndReserveTeam\obj\Debug\FirstAndReserveTeam.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\FirstAndReserveTeam\obj\Debug\FirstAndReserveTeam.exe
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\FirstAndReserveTeam\obj\Debug\FirstAndReserveTeam.pdb

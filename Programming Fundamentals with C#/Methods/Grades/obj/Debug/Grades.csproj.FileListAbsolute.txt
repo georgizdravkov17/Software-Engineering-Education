@@ -1,0 +1,6 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\Grades\bin\Debug\Grades.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\Grades\bin\Debug\Grades.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\Grades\bin\Debug\Grades.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\Grades\obj\Debug\Grades.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\Grades\obj\Debug\Grades.pdb

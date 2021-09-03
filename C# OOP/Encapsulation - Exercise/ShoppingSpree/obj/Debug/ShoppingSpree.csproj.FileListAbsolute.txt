@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ShoppingSpree\bin\Debug\ShoppingSpree.exe.config
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ShoppingSpree\bin\Debug\ShoppingSpree.exe
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ShoppingSpree\bin\Debug\ShoppingSpree.pdb
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ShoppingSpree\obj\Debug\ShoppingSpree.csprojAssemblyReference.cache
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ShoppingSpree\obj\Debug\ShoppingSpree.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ShoppingSpree\obj\Debug\ShoppingSpree.exe
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ShoppingSpree\obj\Debug\ShoppingSpree.pdb

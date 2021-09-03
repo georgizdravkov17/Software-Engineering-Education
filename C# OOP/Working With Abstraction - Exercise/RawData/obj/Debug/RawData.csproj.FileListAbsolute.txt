@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# OOP\Working With Abstraction - Exercise\RawData\bin\Debug\RawData.exe.config
+D:\Software Engeneering\C# OOP\Working With Abstraction - Exercise\RawData\bin\Debug\RawData.exe
+D:\Software Engeneering\C# OOP\Working With Abstraction - Exercise\RawData\bin\Debug\RawData.pdb
+D:\Software Engeneering\C# OOP\Working With Abstraction - Exercise\RawData\obj\Debug\RawData.csprojAssemblyReference.cache
+D:\Software Engeneering\C# OOP\Working With Abstraction - Exercise\RawData\obj\Debug\RawData.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# OOP\Working With Abstraction - Exercise\RawData\obj\Debug\RawData.exe
+D:\Software Engeneering\C# OOP\Working With Abstraction - Exercise\RawData\obj\Debug\RawData.pdb

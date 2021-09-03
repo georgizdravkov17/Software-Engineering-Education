@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\Basic Syntax\bin\Debug\Basic Syntax.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\Basic Syntax\bin\Debug\Basic Syntax.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\Basic Syntax\bin\Debug\Basic Syntax.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\Basic Syntax\obj\Debug\Student Inforamtion.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\Basic Syntax\obj\Debug\Student Inforamtion.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\Basic Syntax\obj\Debug\Basic Syntax.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\Basic Syntax\obj\Debug\Basic Syntax.pdb

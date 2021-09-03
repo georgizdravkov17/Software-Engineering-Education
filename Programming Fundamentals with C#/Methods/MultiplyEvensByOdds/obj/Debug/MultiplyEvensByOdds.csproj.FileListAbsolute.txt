@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\MultiplyEvensByOdds\bin\Debug\MultiplyEvensByOdds.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\MultiplyEvensByOdds\obj\Debug\MultiplyEvensByOdds.pdb

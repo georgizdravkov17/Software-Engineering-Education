@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\NxnMatrix\bin\Debug\NxnMatrix.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\NxnMatrix\bin\Debug\NxnMatrix.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\NxnMatrix\bin\Debug\NxnMatrix.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\NxnMatrix\obj\Debug\NxnMatrix.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\NxnMatrix\obj\Debug\NxnMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\NxnMatrix\obj\Debug\NxnMatrix.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\NxnMatrix\obj\Debug\NxnMatrix.pdb

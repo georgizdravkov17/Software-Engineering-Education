@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\RecordUniqueNames\bin\Debug\RecordUniqueNames.exe.config
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\RecordUniqueNames\bin\Debug\RecordUniqueNames.exe
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\RecordUniqueNames\bin\Debug\RecordUniqueNames.pdb
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\RecordUniqueNames\obj\Debug\RecordUniqueNames.csprojAssemblyReference.cache
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\RecordUniqueNames\obj\Debug\RecordUniqueNames.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\RecordUniqueNames\obj\Debug\RecordUniqueNames.exe
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\RecordUniqueNames\obj\Debug\RecordUniqueNames.pdb

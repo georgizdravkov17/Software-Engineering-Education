@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\FootballTeamGenerator.exe.config
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\FootballTeamGenerator.exe
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\bin\Debug\FootballTeamGenerator.pdb
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\FootballTeamGenerator.csprojAssemblyReference.cache
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\FootballTeamGenerator.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\FootballTeamGenerator.exe
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\FootballTeamGenerator\obj\Debug\FootballTeamGenerator.pdb

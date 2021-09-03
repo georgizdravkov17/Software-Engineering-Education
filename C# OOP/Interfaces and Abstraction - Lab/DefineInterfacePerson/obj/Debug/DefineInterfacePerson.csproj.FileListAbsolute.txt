@@ -1,0 +1,6 @@
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\DefineInterfacePerson\bin\Debug\DefineInterfacePerson.exe.config
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\DefineInterfacePerson\bin\Debug\DefineInterfacePerson.exe
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\DefineInterfacePerson\bin\Debug\DefineInterfacePerson.pdb
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\DefineInterfacePerson\obj\Debug\DefineInterfacePerson.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\DefineInterfacePerson\obj\Debug\DefineInterfacePerson.exe
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\DefineInterfacePerson\obj\Debug\DefineInterfacePerson.pdb

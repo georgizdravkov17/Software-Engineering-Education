@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\SumMatrixColumns\bin\Debug\SumMatrixColumns.exe.config
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\SumMatrixColumns\bin\Debug\SumMatrixColumns.exe
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\SumMatrixColumns\bin\Debug\SumMatrixColumns.pdb
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\SumMatrixColumns\obj\Debug\SumMatrixColumns.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\SumMatrixColumns\obj\Debug\SumMatrixColumns.exe
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\SumMatrixColumns\obj\Debug\SumMatrixColumns.pdb
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\SumMatrixColumns\obj\Debug\SumMatrixColumns.csprojAssemblyReference.cache

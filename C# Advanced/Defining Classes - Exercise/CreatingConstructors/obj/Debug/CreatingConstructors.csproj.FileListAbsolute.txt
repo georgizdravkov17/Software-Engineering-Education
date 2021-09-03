@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\CreatingConstructors\bin\Debug\CreatingConstructors.exe.config
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\CreatingConstructors\bin\Debug\CreatingConstructors.exe
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\CreatingConstructors\bin\Debug\CreatingConstructors.pdb
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\CreatingConstructors\obj\Debug\CreatingConstructors.csprojAssemblyReference.cache
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\CreatingConstructors\obj\Debug\CreatingConstructors.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\CreatingConstructors\obj\Debug\CreatingConstructors.exe
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\CreatingConstructors\obj\Debug\CreatingConstructors.pdb

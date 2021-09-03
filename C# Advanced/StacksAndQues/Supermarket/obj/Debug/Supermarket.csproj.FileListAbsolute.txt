@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\StacksAndQues\Supermarket\bin\Debug\Supermarket.exe.config
+D:\Software Engeneering\C# Advanced\StacksAndQues\Supermarket\bin\Debug\Supermarket.exe
+D:\Software Engeneering\C# Advanced\StacksAndQues\Supermarket\bin\Debug\Supermarket.pdb
+D:\Software Engeneering\C# Advanced\StacksAndQues\Supermarket\obj\Debug\Supermarket.csprojAssemblyReference.cache
+D:\Software Engeneering\C# Advanced\StacksAndQues\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\StacksAndQues\Supermarket\obj\Debug\Supermarket.exe
+D:\Software Engeneering\C# Advanced\StacksAndQues\Supermarket\obj\Debug\Supermarket.pdb

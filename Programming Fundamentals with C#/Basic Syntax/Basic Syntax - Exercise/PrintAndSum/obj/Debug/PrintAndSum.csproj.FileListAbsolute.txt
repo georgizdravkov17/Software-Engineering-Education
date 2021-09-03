@@ -1,0 +1,6 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax - Exercise\PrintAndSum\bin\Debug\PrintAndSum.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax - Exercise\PrintAndSum\bin\Debug\PrintAndSum.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax - Exercise\PrintAndSum\bin\Debug\PrintAndSum.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax - Exercise\PrintAndSum\obj\Debug\PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax - Exercise\PrintAndSum\obj\Debug\PrintAndSum.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax - Exercise\PrintAndSum\obj\Debug\PrintAndSum.pdb

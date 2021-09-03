@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\DefinePerson\bin\Debug\DefinePerson.exe.config
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\DefinePerson\bin\Debug\DefinePerson.exe
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\DefinePerson\bin\Debug\DefinePerson.pdb
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\DefinePerson\obj\Debug\DefinePerson.csprojAssemblyReference.cache
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\DefinePerson\obj\Debug\DefinePerson.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\DefinePerson\obj\Debug\DefinePerson.exe
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\DefinePerson\obj\Debug\DefinePerson.pdb

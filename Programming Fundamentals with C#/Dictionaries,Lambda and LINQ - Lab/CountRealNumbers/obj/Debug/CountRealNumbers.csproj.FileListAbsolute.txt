@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\CountRealNumbers\bin\Debug\CountRealNumbers.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\CountRealNumbers\bin\Debug\CountRealNumbers.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\CountRealNumbers\bin\Debug\CountRealNumbers.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\CountRealNumbers\obj\Debug\CountRealNumbers.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\CountRealNumbers\obj\Debug\CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\CountRealNumbers\obj\Debug\CountRealNumbers.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\CountRealNumbers\obj\Debug\CountRealNumbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Object and Classes - Lab\Students\bin\Debug\Students.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Object and Classes - Lab\Students\bin\Debug\Students.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Object and Classes - Lab\Students\bin\Debug\Students.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Object and Classes - Lab\Students\obj\Debug\Students.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Object and Classes - Lab\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Object and Classes - Lab\Students\obj\Debug\Students.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Object and Classes - Lab\Students\obj\Debug\Students.pdb

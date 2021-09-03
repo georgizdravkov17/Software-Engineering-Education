@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\SymbolInMatrix\bin\Debug\SymbolInMatrix.exe.config
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\SymbolInMatrix\bin\Debug\SymbolInMatrix.exe
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\SymbolInMatrix\bin\Debug\SymbolInMatrix.pdb
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\SymbolInMatrix\obj\Debug\SymbolInMatrix.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\SymbolInMatrix\obj\Debug\SymbolInMatrix.exe
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\SymbolInMatrix\obj\Debug\SymbolInMatrix.pdb
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\SymbolInMatrix\obj\Debug\SymbolInMatrix.csprojAssemblyReference.cache

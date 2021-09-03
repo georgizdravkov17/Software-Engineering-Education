@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\Telephony\bin\Debug\Telephony.exe.config
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\Telephony\bin\Debug\Telephony.exe
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\Telephony\bin\Debug\Telephony.pdb
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\Telephony\obj\Debug\Telephony.csprojAssemblyReference.cache
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\Telephony\obj\Debug\Telephony.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\Telephony\obj\Debug\Telephony.exe
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\Telephony\obj\Debug\Telephony.pdb

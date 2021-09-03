@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\SignOfIntegerNumbers\bin\Debug\SignOfIntegerNumbers.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\SignOfIntegerNumbers\bin\Debug\SignOfIntegerNumbers.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\SignOfIntegerNumbers\bin\Debug\SignOfIntegerNumbers.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\SignOfIntegerNumbers\obj\Debug\SignOfIntegerNumbers.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\SignOfIntegerNumbers\obj\Debug\SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\SignOfIntegerNumbers\obj\Debug\SignOfIntegerNumbers.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods\SignOfIntegerNumbers\obj\Debug\SignOfIntegerNumbers.pdb

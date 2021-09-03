@@ -1,0 +1,6 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\Sunonyms\bin\Debug\Sunonyms.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\Sunonyms\bin\Debug\Sunonyms.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\Sunonyms\bin\Debug\Sunonyms.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\Sunonyms\obj\Debug\Sunonyms.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\Sunonyms\obj\Debug\Sunonyms.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\Sunonyms\obj\Debug\Sunonyms.pdb

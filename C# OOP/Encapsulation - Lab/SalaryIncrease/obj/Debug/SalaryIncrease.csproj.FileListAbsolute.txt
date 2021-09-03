@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\SalaryIncrease\bin\Debug\SalaryIncrease.exe.config
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\SalaryIncrease\bin\Debug\SalaryIncrease.exe
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\SalaryIncrease\bin\Debug\SalaryIncrease.pdb
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\SalaryIncrease\obj\Debug\SalaryIncrease.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\SalaryIncrease\obj\Debug\SalaryIncrease.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\SalaryIncrease\obj\Debug\SalaryIncrease.exe
+C:\Users\Georgi Zdravkov\source\repos\Encapsulation - Lab\SalaryIncrease\obj\Debug\SalaryIncrease.pdb

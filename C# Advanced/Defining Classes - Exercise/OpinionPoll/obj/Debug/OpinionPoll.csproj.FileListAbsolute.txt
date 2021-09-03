@@ -1,0 +1,6 @@
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\OpinionPoll\bin\Debug\OpinionPoll.exe.config
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\OpinionPoll\bin\Debug\OpinionPoll.exe
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\OpinionPoll\bin\Debug\OpinionPoll.pdb
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\OpinionPoll\obj\Debug\OpinionPoll.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\OpinionPoll\obj\Debug\OpinionPoll.exe
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\OpinionPoll\obj\Debug\OpinionPoll.pdb

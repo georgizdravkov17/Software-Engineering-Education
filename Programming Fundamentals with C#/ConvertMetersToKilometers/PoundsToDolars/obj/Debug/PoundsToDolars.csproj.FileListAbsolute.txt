@@ -1,0 +1,6 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\ConvertMetersToKilometers\PoundsToDolars\bin\Debug\PoundsToDolars.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\ConvertMetersToKilometers\PoundsToDolars\bin\Debug\PoundsToDolars.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\ConvertMetersToKilometers\PoundsToDolars\bin\Debug\PoundsToDolars.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\ConvertMetersToKilometers\PoundsToDolars\obj\Debug\PoundsToDolars.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\ConvertMetersToKilometers\PoundsToDolars\obj\Debug\PoundsToDolars.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\ConvertMetersToKilometers\PoundsToDolars\obj\Debug\PoundsToDolars.pdb

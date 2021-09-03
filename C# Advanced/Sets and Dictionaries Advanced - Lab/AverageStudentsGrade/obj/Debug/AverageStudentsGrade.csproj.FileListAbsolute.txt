@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\AverageStudentsGrade\bin\Debug\AverageStudentsGrade.exe.config
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\AverageStudentsGrade\bin\Debug\AverageStudentsGrade.exe
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\AverageStudentsGrade\bin\Debug\AverageStudentsGrade.pdb
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\AverageStudentsGrade\obj\Debug\AverageStudentsGrade.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\AverageStudentsGrade\obj\Debug\AverageStudentsGrade.exe
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\AverageStudentsGrade\obj\Debug\AverageStudentsGrade.pdb
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\AverageStudentsGrade\obj\Debug\AverageStudentsGrade.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\ProductShop\bin\Debug\ProductShop.exe.config
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\ProductShop\bin\Debug\ProductShop.exe
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\ProductShop\bin\Debug\ProductShop.pdb
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\ProductShop\obj\Debug\ProductShop.csprojAssemblyReference.cache
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\ProductShop\obj\Debug\ProductShop.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\ProductShop\obj\Debug\ProductShop.exe
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Lab\ProductShop\obj\Debug\ProductShop.pdb

@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\MatrixShuflling\obj\Debug\MatrixShuflling.csprojAssemblyReference.cache
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\MatrixShuflling\obj\Debug\MatrixShuflling.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\MatrixShuflling\bin\Debug\MatrixShuflling.exe.config
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\MatrixShuflling\bin\Debug\MatrixShuflling.exe
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\MatrixShuflling\bin\Debug\MatrixShuflling.pdb
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\MatrixShuflling\obj\Debug\MatrixShuflling.exe
+D:\Software Engeneering\C# Advanced\MULTIDIMENSIONAL ARRAYS - Exercise\MatrixShuflling\obj\Debug\MatrixShuflling.pdb

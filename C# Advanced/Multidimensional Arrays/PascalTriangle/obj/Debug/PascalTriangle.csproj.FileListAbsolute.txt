@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\PascalTriangle\bin\Debug\PascalTriangle.exe.config
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\PascalTriangle\bin\Debug\PascalTriangle.exe
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\PascalTriangle\bin\Debug\PascalTriangle.pdb
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\PascalTriangle\obj\Debug\PascalTriangle.csprojAssemblyReference.cache
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\PascalTriangle\obj\Debug\PascalTriangle.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\PascalTriangle\obj\Debug\PascalTriangle.exe
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\PascalTriangle\obj\Debug\PascalTriangle.pdb

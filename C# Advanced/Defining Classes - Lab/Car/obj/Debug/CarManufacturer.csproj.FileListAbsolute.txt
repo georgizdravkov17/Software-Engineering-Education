@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\Defining Classes - Lab\Car\bin\Debug\Car.exe.config
+D:\Software Engeneering\C# Advanced\Defining Classes - Lab\Car\bin\Debug\Car.exe
+D:\Software Engeneering\C# Advanced\Defining Classes - Lab\Car\bin\Debug\Car.pdb
+D:\Software Engeneering\C# Advanced\Defining Classes - Lab\Car\obj\Debug\CarManufacturer.csprojAssemblyReference.cache
+D:\Software Engeneering\C# Advanced\Defining Classes - Lab\Car\obj\Debug\CarManufacturer.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\Defining Classes - Lab\Car\obj\Debug\Car.exe
+D:\Software Engeneering\C# Advanced\Defining Classes - Lab\Car\obj\Debug\Car.pdb

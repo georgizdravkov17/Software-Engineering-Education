@@ -1,0 +1,6 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\LargestThreeNumbers\bin\Debug\LargestThreeNumbers.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\LargestThreeNumbers\bin\Debug\LargestThreeNumbers.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\LargestThreeNumbers\bin\Debug\LargestThreeNumbers.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\LargestThreeNumbers\obj\Debug\LargestThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\LargestThreeNumbers\obj\Debug\LargestThreeNumbers.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\LargestThreeNumbers\obj\Debug\LargestThreeNumbers.pdb

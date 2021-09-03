@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# OOP\Polymorphism - Lab\MathOperations\bin\Debug\MathOperations.exe.config
+D:\Software Engeneering\C# OOP\Polymorphism - Lab\MathOperations\bin\Debug\MathOperations.exe
+D:\Software Engeneering\C# OOP\Polymorphism - Lab\MathOperations\bin\Debug\MathOperations.pdb
+D:\Software Engeneering\C# OOP\Polymorphism - Lab\MathOperations\obj\Debug\MathOperations.csprojAssemblyReference.cache
+D:\Software Engeneering\C# OOP\Polymorphism - Lab\MathOperations\obj\Debug\MathOperations.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# OOP\Polymorphism - Lab\MathOperations\obj\Debug\MathOperations.exe
+D:\Software Engeneering\C# OOP\Polymorphism - Lab\MathOperations\obj\Debug\MathOperations.pdb

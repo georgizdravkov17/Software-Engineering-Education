@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\RoundingNumbers\bin\Debug\RoundingNumbers.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\RoundingNumbers\bin\Debug\RoundingNumbers.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\RoundingNumbers\bin\Debug\RoundingNumbers.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\RoundingNumbers\obj\Debug\RoundingNumbers.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\RoundingNumbers\obj\Debug\RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\RoundingNumbers\obj\Debug\RoundingNumbers.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\RoundingNumbers\obj\Debug\RoundingNumbers.pdb

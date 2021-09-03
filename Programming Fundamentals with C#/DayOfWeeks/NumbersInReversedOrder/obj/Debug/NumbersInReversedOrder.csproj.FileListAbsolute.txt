@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\NumbersInReversedOrder\bin\Debug\NumbersInReversedOrder.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\NumbersInReversedOrder\obj\Debug\NumbersInReversedOrder.pdb

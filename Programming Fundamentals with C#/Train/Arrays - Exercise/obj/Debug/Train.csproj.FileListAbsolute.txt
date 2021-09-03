@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Train\Arrays - Exercise\bin\Debug\Arrays - Exercise.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Train\Arrays - Exercise\bin\Debug\Arrays - Exercise.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Train\Arrays - Exercise\bin\Debug\Arrays - Exercise.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Train\Arrays - Exercise\obj\Debug\Train.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Train\Arrays - Exercise\obj\Debug\Train.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Train\Arrays - Exercise\obj\Debug\Arrays - Exercise.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Train\Arrays - Exercise\obj\Debug\Arrays - Exercise.pdb

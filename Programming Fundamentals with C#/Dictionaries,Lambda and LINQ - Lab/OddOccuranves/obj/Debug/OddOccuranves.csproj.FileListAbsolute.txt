@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\OddOccuranves\bin\Debug\OddOccuranves.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\OddOccuranves\bin\Debug\OddOccuranves.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\OddOccuranves\bin\Debug\OddOccuranves.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\OddOccuranves\obj\Debug\OddOccuranves.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\OddOccuranves\obj\Debug\OddOccuranves.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\OddOccuranves\obj\Debug\OddOccuranves.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries,Lambda and LINQ - Lab\OddOccuranves\obj\Debug\OddOccuranves.pdb

@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax - Exercise\Vacation\bin\Debug\Vacation.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax - Exercise\Vacation\bin\Debug\Vacation.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax - Exercise\Vacation\bin\Debug\Vacation.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax - Exercise\Vacation\obj\Debug\Vacation.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax - Exercise\Vacation\obj\Debug\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax - Exercise\Vacation\obj\Debug\Vacation.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax - Exercise\Vacation\obj\Debug\Vacation.pdb

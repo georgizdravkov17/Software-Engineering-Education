@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\JaggedArayModification\bin\Debug\JaggedArayModification.exe.config
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\JaggedArayModification\bin\Debug\JaggedArayModification.exe
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\JaggedArayModification\bin\Debug\JaggedArayModification.pdb
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\JaggedArayModification\obj\Debug\JaggedArayModification.csprojAssemblyReference.cache
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\JaggedArayModification\obj\Debug\JaggedArayModification.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\JaggedArayModification\obj\Debug\JaggedArayModification.exe
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\JaggedArayModification\obj\Debug\JaggedArayModification.pdb

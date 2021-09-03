@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\PrimaryDiagonal\bin\Debug\PrimaryDiagonal.exe.config
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\PrimaryDiagonal\bin\Debug\PrimaryDiagonal.exe
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\PrimaryDiagonal\bin\Debug\PrimaryDiagonal.pdb
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\PrimaryDiagonal\obj\Debug\PrimaryDiagonal.csprojAssemblyReference.cache
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\PrimaryDiagonal\obj\Debug\PrimaryDiagonal.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\PrimaryDiagonal\obj\Debug\PrimaryDiagonal.exe
+D:\Software Engeneering\C# Advanced\Multidimensional Arrays\PrimaryDiagonal\obj\Debug\PrimaryDiagonal.pdb

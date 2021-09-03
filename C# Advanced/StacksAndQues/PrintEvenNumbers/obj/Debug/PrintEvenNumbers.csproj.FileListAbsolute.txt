@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\StacksAndQues\PrintEvenNumbers\bin\Debug\PrintEvenNumbers.exe.config
+D:\Software Engeneering\C# Advanced\StacksAndQues\PrintEvenNumbers\bin\Debug\PrintEvenNumbers.exe
+D:\Software Engeneering\C# Advanced\StacksAndQues\PrintEvenNumbers\bin\Debug\PrintEvenNumbers.pdb
+D:\Software Engeneering\C# Advanced\StacksAndQues\PrintEvenNumbers\obj\Debug\PrintEvenNumbers.csprojAssemblyReference.cache
+D:\Software Engeneering\C# Advanced\StacksAndQues\PrintEvenNumbers\obj\Debug\PrintEvenNumbers.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\StacksAndQues\PrintEvenNumbers\obj\Debug\PrintEvenNumbers.exe
+D:\Software Engeneering\C# Advanced\StacksAndQues\PrintEvenNumbers\obj\Debug\PrintEvenNumbers.pdb

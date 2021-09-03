@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\MinerTast\bin\Debug\MinerTast.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\MinerTast\bin\Debug\MinerTast.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\MinerTast\bin\Debug\MinerTast.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\MinerTast\obj\Debug\MinerTast.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\MinerTast\obj\Debug\MinerTast.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\MinerTast\obj\Debug\MinerTast.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\MinerTast\obj\Debug\MinerTast.pdb

@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\DivisibleByThree\bin\Debug\DivisibleByThree.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\DivisibleByThree\bin\Debug\DivisibleByThree.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\DivisibleByThree\bin\Debug\DivisibleByThree.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\DivisibleByThree\obj\Debug\DivisibleByThree.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\DivisibleByThree\obj\Debug\DivisibleByThree.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\DivisibleByThree\obj\Debug\DivisibleByThree.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\DivisibleByThree\obj\Debug\DivisibleByThree.pdb

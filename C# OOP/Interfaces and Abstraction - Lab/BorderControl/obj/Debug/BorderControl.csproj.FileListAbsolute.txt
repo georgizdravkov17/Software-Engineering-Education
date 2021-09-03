@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\BorderControl\bin\Debug\BorderControl.exe.config
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\BorderControl\bin\Debug\BorderControl.exe
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\BorderControl\bin\Debug\BorderControl.pdb
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\BorderControl\obj\Debug\BorderControl.csprojAssemblyReference.cache
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\BorderControl\obj\Debug\BorderControl.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\BorderControl\obj\Debug\BorderControl.exe
+D:\Software Engeneering\C# OOP\Interfaces and Abstraction - Lab\BorderControl\obj\Debug\BorderControl.pdb

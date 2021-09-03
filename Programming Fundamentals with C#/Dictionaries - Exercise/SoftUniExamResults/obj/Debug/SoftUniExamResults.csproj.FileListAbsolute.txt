@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\SoftUniExamResults\bin\Debug\SoftUniExamResults.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\SoftUniExamResults\bin\Debug\SoftUniExamResults.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\SoftUniExamResults\bin\Debug\SoftUniExamResults.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\SoftUniExamResults\obj\Debug\SoftUniExamResults.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\SoftUniExamResults\obj\Debug\SoftUniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\SoftUniExamResults\obj\Debug\SoftUniExamResults.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Dictionaries - Exercise\SoftUniExamResults\obj\Debug\SoftUniExamResults.pdb

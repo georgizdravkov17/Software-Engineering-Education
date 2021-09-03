@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# OOP\Woking With Abstaction - Lab\RombusOfStars\bin\Debug\RombusOfStars.exe.config
+D:\Software Engeneering\C# OOP\Woking With Abstaction - Lab\RombusOfStars\bin\Debug\RombusOfStars.exe
+D:\Software Engeneering\C# OOP\Woking With Abstaction - Lab\RombusOfStars\bin\Debug\RombusOfStars.pdb
+D:\Software Engeneering\C# OOP\Woking With Abstaction - Lab\RombusOfStars\obj\Debug\RombusOfStars.csprojAssemblyReference.cache
+D:\Software Engeneering\C# OOP\Woking With Abstaction - Lab\RombusOfStars\obj\Debug\RombusOfStars.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# OOP\Woking With Abstaction - Lab\RombusOfStars\obj\Debug\RombusOfStars.exe
+D:\Software Engeneering\C# OOP\Woking With Abstaction - Lab\RombusOfStars\obj\Debug\RombusOfStars.pdb

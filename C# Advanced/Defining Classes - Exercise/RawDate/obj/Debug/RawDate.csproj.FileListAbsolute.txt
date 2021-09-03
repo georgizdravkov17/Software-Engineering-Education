@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\RawDate\bin\Debug\RawDate.exe.config
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\RawDate\bin\Debug\RawDate.exe
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\RawDate\bin\Debug\RawDate.pdb
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\RawDate\obj\Debug\RawDate.csprojAssemblyReference.cache
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\RawDate\obj\Debug\RawDate.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\RawDate\obj\Debug\RawDate.exe
+D:\Software Engeneering\C# Advanced\Defining Classes - Exercise\RawDate\obj\Debug\RawDate.pdb

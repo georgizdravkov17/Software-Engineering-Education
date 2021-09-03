@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ClassBoxData\bin\Debug\ClassBoxData.exe.config
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ClassBoxData\bin\Debug\ClassBoxData.exe
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ClassBoxData\bin\Debug\ClassBoxData.pdb
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ClassBoxData\obj\Debug\ClassBoxData.csprojAssemblyReference.cache
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ClassBoxData\obj\Debug\ClassBoxData.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ClassBoxData\obj\Debug\ClassBoxData.exe
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\ClassBoxData\obj\Debug\ClassBoxData.pdb

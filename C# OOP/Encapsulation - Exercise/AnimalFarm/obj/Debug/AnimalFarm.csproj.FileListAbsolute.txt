@@ -1,0 +1,7 @@
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\AnimalFarm\bin\Debug\AnimalFarm.exe
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\AnimalFarm\bin\Debug\AnimalFarm.pdb
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\AnimalFarm\obj\Debug\AnimalFarm.csprojAssemblyReference.cache
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\AnimalFarm\obj\Debug\AnimalFarm.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\AnimalFarm\obj\Debug\AnimalFarm.exe
+D:\Software Engeneering\C# OOP\Encapsulation - Exercise\AnimalFarm\obj\Debug\AnimalFarm.pdb

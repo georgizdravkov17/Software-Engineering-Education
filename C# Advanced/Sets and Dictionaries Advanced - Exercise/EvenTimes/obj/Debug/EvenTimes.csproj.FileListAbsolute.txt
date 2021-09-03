@@ -1,0 +1,6 @@
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\bin\Debug\EvenTimes.exe.config
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\bin\Debug\EvenTimes.exe
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\bin\Debug\EvenTimes.pdb
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\EvenTimes.csproj.CoreCompileInputs.cache
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\EvenTimes.exe
+D:\Software Engeneering\C# Advanced\Sets and Dictionaries Advanced - Exercise\EvenTimes\obj\Debug\EvenTimes.pdb

@@ -1,0 +1,163 @@
+ public class ExamShape : Shape
+    {
+        #region Constructor
+
+        public ExamShape(RectangleF circ) : base(circ)
+        {
+
+        }
+        #endregion
+
+        public override bool Contains(PointF point)
+        {
+
+            if (base.Contains(point))
+                // Проверка дали е в обекта само, ако точката е в обхващащия правоъгълник.
+                // В случая на правоъгълник - директно връщаме true
+
+                return true;
+            else
+                // Ако не е в обхващащия правоъгълник, то неможе да е в обекта и => false
+                return false;
+        }
+        /// <summary>
+        /// Частта, визуализираща конкретния примитив.
+        /// </summary>
+        public override void DrawSelf(Graphics grfx)
+        {
+            base.DrawSelf(grfx);
+            base.RotateShape(grfx);
+
+		<0>
+	    grfx.DrawEllipse(new Pen(BorderColor), Rectangle.X, Rectangle.Y, Rectangle.Width, Rectangle.Height);
+            Point[] pointOne = {
+                new Point((int)(Rectangle.X + 30), (int)Rectangle.Y + 30),
+                new Point((int)(Rectangle.X + Rectangle.Width - 30), (int)(Rectangle.Y + 170))};
+            grfx.DrawLines(new Pen(BorderColor), pointOne);
+            Point[] pointTwo = {
+                 new Point((int)(Rectangle.X + 30), (int)Rectangle.Y + 170),
+                new Point((int)(Rectangle.X + Rectangle.Width - 30), (int)(Rectangle.Y + 30))};
+            grfx.DrawLines(new Pen(BorderColor), pointTwo);
+            grfx.FillEllipse(new SolidBrush(FillColor), Rectangle.X, Rectangle.Y, Rectangle.Width, Rectangle.Height);
+		
+		<1>
+            grfx.DrawRectangle(new Pen(BorderColor), Rectangle.X, Rectangle.Y, Rectangle.Width, Rectangle.Height);
+            Point[] p = { 
+                new Point((int)Rectangle.X, (int)Rectangle.Y),
+                new Point((int)(Rectangle.X + Rectangle.Width), (int)Rectangle.Y),
+                new Point((int)Rectangle.X + ((int)Rectangle.Width / 2),(int)(Rectangle.Bottom - 100))};
+            grfx.FillPolygon(new SolidBrush(FillColor), p);
+            grfx.DrawPolygon(new Pen(BorderColor), p);
+
+
+		<2>
+	    grfx.DrawEllipse(new Pen(BorderColor), Rectangle.X, Rectangle.Y, Rectangle.Width, Rectangle.Height);
+            Point[] pointOne = {
+                new Point((int)(Rectangle.X + 100), (int)Rectangle.Y),
+                new Point((int)(Rectangle.X + 100), (int)(Rectangle.Y+Rectangle.Height))};
+            grfx.DrawLines(new Pen(BorderColor), pointOne);
+            Point[] pointTwo = {
+                 new Point((int)(Rectangle.X + 30), (int)Rectangle.Y + 170),
+                new Point((int)(Rectangle.X + Rectangle.Width - 100), (int)(Rectangle.Bottom - 100))};
+            grfx.DrawLines(new Pen(BorderColor), pointTwo);
+            Point[] pointThree = {
+                new Point((int)(Rectangle.X + Rectangle.Width -100), (int)Rectangle.Bottom - 100),
+                new Point((int)(Rectangle.X + Rectangle.Width - 30), (int)(Rectangle.Y + 170))};
+            grfx.DrawLines(new Pen(BorderColor), pointThree);
+            grfx.FillEllipse(new SolidBrush(FillColor), Rectangle.X, Rectangle.Y, Rectangle.Width, Rectangle.Height);
+
+		<3>
+	    grfx.DrawRectangle(new Pen(BorderColor), Rectangle.X, Rectangle.Y, Rectangle.Width, Rectangle.Height);
+            Point[] pointOne = {
+                new Point((int)(Rectangle.X), (int)Rectangle.Y + 50),
+                new Point((int)(Rectangle.X + 100), (int)(Rectangle.Y+50))};
+            grfx.DrawLines(new Pen(BorderColor), pointOne);
+            Point[] pointTwo = {
+                new Point((int)(Rectangle.X + 100), (int)Rectangle.Y + 50),
+                new Point((int)(Rectangle.X + Rectangle.Width), (int)(Rectangle.Y))};
+            grfx.DrawLines(new Pen(BorderColor), pointTwo);
+
+		<4>
+	    grfx.DrawRectangle(new Pen(BorderColor), Rectangle.X, Rectangle.Y, Rectangle.Width, Rectangle.Height);
+            Point[] pointOne = {
+                new Point((int)(Rectangle.X), (int)Rectangle.Y + 50),
+                new Point((int)(Rectangle.X + Rectangle.Width), (int)(Rectangle.Y+50))};
+            grfx.DrawLines(new Pen(BorderColor), pointOne);
+            Point[] pointTwo = {
+                new Point((int)(Rectangle.X + 100), (int)Rectangle.Y),
+                new Point((int)(Rectangle.X + 100), (int)(Rectangle.Y + 50))};
+            grfx.DrawLines(new Pen(BorderColor), pointTwo);
+
+		<5>
+	    grfx.DrawEllipse(new Pen(BorderColor), Rectangle.X, Rectangle.Y, Rectangle.Width, Rectangle.Height);
+            Point[] pointOne = {
+                new Point((int)(Rectangle.X + 14), (int)Rectangle.Y + 50),
+                new Point((int)(Rectangle.X + Rectangle.Width - 14), (int)(Rectangle.Y + 50))};
+            grfx.DrawLines(new Pen(BorderColor), pointOne);
+            Point[] pointTwo = {
+                 new Point((int)(Rectangle.X), (int)Rectangle.Y + 100),
+                new Point((int)(Rectangle.X + Rectangle.Width), (int)(Rectangle.Y + 100))};
+            grfx.DrawLines(new Pen(BorderColor), pointTwo);
+            Point[] pointThree = {
+                 new Point((int)(Rectangle.X + 100), (int)Rectangle.Y),
+                new Point((int)(Rectangle.X + 100), (int)(Rectangle.Y + Rectangle.Height))};
+            grfx.DrawLines(new Pen(BorderColor), pointThree);
+            grfx.FillEllipse(new SolidBrush(FillColor), Rectangle.X, Rectangle.Y, Rectangle.Width, Rectangle.Height);
+
+		<6>
+	    grfx.DrawRectangle(new Pen(BorderColor), Rectangle.X, Rectangle.Y, Rectangle.Width, Rectangle.Height);
+            grfx.DrawRectangle(new Pen(BorderColor), Rectangle.X, Rectangle.Y+50, Rectangle.Width-100, Rectangle.Height-50);
+            Point[] pointOne = {
+                new Point((int)(Rectangle.X + Rectangle.Width - 100), (int)Rectangle.Y + 50),
+                new Point((int)(Rectangle.X + Rectangle.Width), (int)(Rectangle.Y))};
+            grfx.DrawLines(new Pen(BorderColor), pointOne);
+
+		<7>
+	    grfx.DrawEllipse(new Pen(BorderColor), Rectangle.X, Rectangle.Y, Rectangle.Width, Rectangle.Height);
+            Point[] pointOnes = {
+                new Point((int)(Rectangle.X + 14), (int)Rectangle.Y + 50),
+                new Point((int)(Rectangle.X + Rectangle.Width), (int)(Rectangle.Y + 100))};
+            grfx.DrawLines(new Pen(BorderColor), pointOnes);
+            Point[] pointTwos = {
+                 new Point((int)(Rectangle.X), (int)Rectangle.Y + 100),
+                new Point((int)(Rectangle.X + Rectangle.Width - 14), (int)(Rectangle.Y + 150))};
+            grfx.DrawLines(new Pen(BorderColor), pointTwos);
+            grfx.FillEllipse(new SolidBrush(FillColor), Rectangle.X, Rectangle.Y, Rectangle.Width, Rectangle.Height);
+		
+		<8>
+            grfx.DrawEllipse(new Pen(BorderColor), Rectangle.X, Rectangle.Y, Rectangle.Width, Rectangle.Height);
+            Point[] pointOne = {
+                new Point((int)(Rectangle.X + 100), (int)Rectangle.Y),
+                new Point((int)(Rectangle.X + 100), (int)(Rectangle.Y+Rectangle.Height))};
+            grfx.DrawLines(new Pen(BorderColor), pointOne);
+            Point[] pointTwo = {
+                new Point((int)(Rectangle.X), (int)Rectangle.Bottom),
+                new Point((int)(Rectangle.X + 200), (int)(Rectangle.Bottom))};
+            grfx.DrawLines(new Pen(BorderColor), pointTwo);
+            grfx.FillEllipse(new SolidBrush(FillColor), Rectangle.X, Rectangle.Y, Rectangle.Width, Rectangle.Height);
+
+		<9>
+            grfx.DrawRectangle(new Pen(BorderColor), Rectangle.X, Rectangle.Y, Rectangle.Width, Rectangle.Height);
+            Point[] pointOne = {
+                new Point((int)(Rectangle.X), (int)Rectangle.Y),
+                new Point((int)(Rectangle.X + Rectangle.Width), (int)(Rectangle.Bottom))};
+            grfx.DrawLines(new Pen(BorderColor), pointOne);
+            Point[] pointTwo = {
+                new Point((int)(Rectangle.X), (int)Rectangle.Bottom),
+                new Point((int)(Rectangle.X + Rectangle.Width), (int)(Rectangle.Y))};
+            grfx.DrawLines(new Pen(BorderColor), pointTwo);
+        }
+    }
+
+
+public void AddRandomCircleLine()
+		{
+			Random rnd = new Random();
+			int x = rnd.Next(600, 1300);
+			int y = rnd.Next(100, 400);
+			ExamShape exam = new ExamShape(new Rectangle(x, y, 200, 100));
+			exam.BorderColor = Color.Black;
+			ShapeList.Add(exam);
+
+
+		}

@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\ReverseArrayOfStrings\bin\Debug\ReverseArrayOfStrings.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\ReverseArrayOfStrings\bin\Debug\ReverseArrayOfStrings.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\ReverseArrayOfStrings\bin\Debug\ReverseArrayOfStrings.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\ReverseArrayOfStrings\obj\Debug\ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\ReverseArrayOfStrings\obj\Debug\ReverseArrayOfStrings.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\ReverseArrayOfStrings\obj\Debug\ReverseArrayOfStrings.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\DayOfWeeks\ReverseArrayOfStrings\obj\Debug\ReverseArrayOfStrings.csprojAssemblyReference.cache

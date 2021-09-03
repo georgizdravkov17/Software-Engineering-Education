@@ -1,0 +1,6 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Basic Syntax\Basic Syntax\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.pdb

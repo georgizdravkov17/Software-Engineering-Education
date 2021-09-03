@@ -1,0 +1,7 @@
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\MiddleCharacters\bin\Debug\MiddleCharacters.exe.config
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\MiddleCharacters\bin\Debug\MiddleCharacters.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\MiddleCharacters\bin\Debug\MiddleCharacters.pdb
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\MiddleCharacters\obj\Debug\MiddleCharacters.csprojAssemblyReference.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\MiddleCharacters\obj\Debug\MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\MiddleCharacters\obj\Debug\MiddleCharacters.exe
+C:\Users\Georgi Zdravkov\Desktop\Programming Fundamentals with C#\Methods - Exercise\MiddleCharacters\obj\Debug\MiddleCharacters.pdb
